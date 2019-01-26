@@ -1,0 +1,16 @@
+body {
+	max-width: 1000px;
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#wynik {
+	margin-top: 20px;
+}
+
+input {
+	border: solid green 2px;
+	border-radius: 6px;
+	height: 25px;
+}
